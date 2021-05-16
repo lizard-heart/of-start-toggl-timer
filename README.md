@@ -1,4 +1,4 @@
-# of-start-toggl-timer
+# Start Toggl Timers in OmniFocus
 Start a toggl timer from within OmniFocus. Heavily inspired by https://github.com/benhughes/OmniToggl.
 
 ## setup/installation
